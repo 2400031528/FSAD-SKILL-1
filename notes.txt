@@ -1,0 +1,3 @@
+This is my Git version control lab.
+learning how Git works.
+Bug fix applied.
